@@ -1,4 +1,4 @@
-# Making 3D Cube C++ and OpenGL 
+# Making 3D Cube with C++ and OpenGL 
 I have prepared a 3D Cube that can be rotating all around with keyboard commands. In this project,
 I have used C++ and OpenGL tools in Visual Studio 2019.
 This tools and important files are listed below:
