@@ -58,7 +58,7 @@ and copy the important files to project folder.
 
 
 
-  Execute  ```main.cpp```   file in ```src``` folder.
+  Execute  ```main.cpp```   file in ```deneme/src``` folder.
 
 Keyboard commands on the GUI ensure rotation ability on the 3D Cube
 - With left-right-up-down arrow on the keyboard the 3D Cube will be rotate.
