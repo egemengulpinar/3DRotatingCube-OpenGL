@@ -1,0 +1,7 @@
+﻿E:\VisualStudio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (deneme.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  main.cpp
+E:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': makro yeniden tanımlama
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\deneme\deneme\deneme\header\GLFW\glfw3.h(104): message : önceki 'APIENTRY' tanımına bakın
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\deneme\deneme\deneme\src\main.cpp(149,15): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\deneme\deneme\deneme\src\main.cpp(150,15): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  deneme.vcxproj -> C:\Users\egeme\Desktop\GitHub Previous Projects\Computer Graphics\Final Ödevi\deneme\deneme\Debug\3D Cube.exe
